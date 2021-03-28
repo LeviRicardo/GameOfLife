@@ -1,2 +1,3 @@
 # GameOfLife
-Conway's Game Of Life
+
+Creating conways game of lifeboth in **Python** and **Javascript**
